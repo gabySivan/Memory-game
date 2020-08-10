@@ -1,0 +1,9 @@
+C:\Gaby\BScCS\שנה ב\סמסטר ב\C#\מטלה 2\memory game\B20 Ex02 IdoKendler 203865829 GabySivan 315073049\B20_Ex02\obj\Debug\B20_Ex02.csprojAssemblyReference.cache
+C:\Gaby\BScCS\שנה ב\סמסטר ב\C#\מטלה 2\memory game\B20 Ex02 IdoKendler 203865829 GabySivan 315073049\B20_Ex02\obj\Debug\B20_Ex02.csproj.CoreCompileInputs.cache
+C:\Gaby\BScCS\שנה ב\סמסטר ב\C#\מטלה 2\memory game\B20 Ex02 IdoKendler 203865829 GabySivan 315073049\B20_Ex02\bin\Debug\B20_Ex02.exe.config
+C:\Gaby\BScCS\שנה ב\סמסטר ב\C#\מטלה 2\memory game\B20 Ex02 IdoKendler 203865829 GabySivan 315073049\B20_Ex02\bin\Debug\B20_Ex02.exe
+C:\Gaby\BScCS\שנה ב\סמסטר ב\C#\מטלה 2\memory game\B20 Ex02 IdoKendler 203865829 GabySivan 315073049\B20_Ex02\bin\Debug\B20_Ex02.pdb
+C:\Gaby\BScCS\שנה ב\סמסטר ב\C#\מטלה 2\memory game\B20 Ex02 IdoKendler 203865829 GabySivan 315073049\B20_Ex02\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Gaby\BScCS\שנה ב\סמסטר ב\C#\מטלה 2\memory game\B20 Ex02 IdoKendler 203865829 GabySivan 315073049\B20_Ex02\obj\Debug\B20_Ex02.csproj.CopyComplete
+C:\Gaby\BScCS\שנה ב\סמסטר ב\C#\מטלה 2\memory game\B20 Ex02 IdoKendler 203865829 GabySivan 315073049\B20_Ex02\obj\Debug\B20_Ex02.exe
+C:\Gaby\BScCS\שנה ב\סמסטר ב\C#\מטלה 2\memory game\B20 Ex02 IdoKendler 203865829 GabySivan 315073049\B20_Ex02\obj\Debug\B20_Ex02.pdb
